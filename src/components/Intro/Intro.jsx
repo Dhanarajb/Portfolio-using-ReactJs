@@ -27,7 +27,7 @@ const Intro = () => {
                     <span>Dhanaraj Bhaskar</span>
                     <span>Front-End Developer with Experience in Web design and development, Productivity the quality work</span>
                 </div>
-                <button className='button i-button'>Hire me</button>
+                <button className='button i-button'> <a href="https://api.whatsapp.com/send/?phone=%2B919590891302&text&type=phone_number&app_absent=0">Hire me</a> </button>
                 <div className='i-icons'>
                     <a href='https://github.com/Dhanarajb'><img src={Github} alt="" /></a>
                     <a href='https://www.linkedin.com/in/dhanaraj-bhaskar-532111b9/'><img src={LinkedIn} alt="" /></a>
