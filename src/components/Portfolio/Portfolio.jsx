@@ -6,6 +6,7 @@ import Ecommerce from '../../img/ecommerce.png'
 import apiFetch from '../../img/apiFetch.png'
 import MusicApp from '../../img/musicapp.png'
 import tom from '../../img/tom.png'
+import Exp from '../../img/Exp.png'
 import 'swiper/css'
 import { themeContext } from '../../Context'
 import { useContext } from 'react';
@@ -40,6 +41,9 @@ const Portfolio = () => {
             </SwiperSlide>
             <SwiperSlide>
                 <img src={tom} alt=''  />
+            </SwiperSlide>
+            <SwiperSlide>
+                <img src={Exp} alt=''  />
             </SwiperSlide>
         </Swiper>
     </div>
