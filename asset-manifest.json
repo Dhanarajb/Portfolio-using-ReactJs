@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/Portfolio-using-ReactJs/static/css/main.962000da.css",
-    "main.js": "/Portfolio-using-ReactJs/static/js/main.8cb15e2a.js",
+    "main.js": "/Portfolio-using-ReactJs/static/js/main.605a4b36.js",
+    "static/media/netflix.png": "/Portfolio-using-ReactJs/static/media/netflix.f7c32d00bea1371bc14e.png",
     "static/media/tom.png": "/Portfolio-using-ReactJs/static/media/tom.e0dc301e2b6c6e265877.png",
     "static/media/apiFetch.png": "/Portfolio-using-ReactJs/static/media/apiFetch.293262e4d8f98dbde5a8.png",
+    "static/media/booking.png": "/Portfolio-using-ReactJs/static/media/booking.602b21db77d808f55b1a.png",
     "static/media/shoppingcart.png": "/Portfolio-using-ReactJs/static/media/shoppingcart.72d3620b7204b05d07ee.png",
-    "static/media/ecommerce.png": "/Portfolio-using-ReactJs/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/Exp.png": "/Portfolio-using-ReactJs/static/media/Exp.dfc36bc7dc5dd8845f19.png",
+    "static/media/expense.png": "/Portfolio-using-ReactJs/static/media/expense.1fb38fabdfcb68252104.png",
     "static/media/musicapp.png": "/Portfolio-using-ReactJs/static/media/musicapp.f1c301f91904ef5f9249.png",
     "static/media/boy.png": "/Portfolio-using-ReactJs/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/resume.pdf": "/Portfolio-using-ReactJs/static/media/resume.d77b169ff598766a8d92.pdf",
     "static/media/glassesimoji.png": "/Portfolio-using-ReactJs/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/resume.pdf": "/Portfolio-using-ReactJs/static/media/resume.7a93e84d0441bf3f65e5.pdf",
     "static/media/thumbup.png": "/Portfolio-using-ReactJs/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/humble.png": "/Portfolio-using-ReactJs/static/media/humble.c8b32b53675e68978981.png",
     "static/media/heartemoji.png": "/Portfolio-using-ReactJs/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
@@ -20,10 +22,10 @@
     "static/media/glasses.png": "/Portfolio-using-ReactJs/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/Portfolio-using-ReactJs/index.html",
     "main.962000da.css.map": "/Portfolio-using-ReactJs/static/css/main.962000da.css.map",
-    "main.8cb15e2a.js.map": "/Portfolio-using-ReactJs/static/js/main.8cb15e2a.js.map"
+    "main.605a4b36.js.map": "/Portfolio-using-ReactJs/static/js/main.605a4b36.js.map"
   },
   "entrypoints": [
     "static/css/main.962000da.css",
-    "static/js/main.8cb15e2a.js"
+    "static/js/main.605a4b36.js"
   ]
 }
