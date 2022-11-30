@@ -2,7 +2,9 @@ import React from 'react'
 import './Portfolio.css'
 import {Swiper, SwiperSlide} from 'swiper/react'
 import shoppingcart from '../../img/shoppingcart.png'
-import Ecommerce from '../../img/ecommerce.png'
+import expense from '../../img/expense.png'
+import netflix from '../../img/netflix.png'
+import booking from '../../img/booking.png'
 import apiFetch from '../../img/apiFetch.png'
 import MusicApp from '../../img/musicapp.png'
 import tom from '../../img/tom.png'
@@ -28,10 +30,16 @@ const Portfolio = () => {
         className='portfolio-slider'
         >
             <SwiperSlide>
+                <a href='https://netflixappreactjs.netlify.app'><img src={netflix} alt=''  /></a>
+            </SwiperSlide>
+            <SwiperSlide>
                 <img src={shoppingcart} alt=''  />
             </SwiperSlide>
             <SwiperSlide>
-                <img src={Ecommerce} alt=''  />
+                <a href='https://dhanarajb.github.io/Expense-udemy/'><img src={expense} alt=''  /></a>
+            </SwiperSlide>
+            <SwiperSlide>
+                <a href='https://ticketbookingreact.netlify.app'><img src={booking} alt=''  /></a>
             </SwiperSlide>
             <SwiperSlide>
                 <img src={apiFetch} alt=''  />
